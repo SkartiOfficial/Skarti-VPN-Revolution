@@ -1,13 +1,12 @@
 # README
 
+## 📱 Tentang Aplikasi Skarti VPN
+Skarti VPN Revolution adalah aplikasi yang digunakan untuk mengonfigurasi koneksi internet melalui protokol HTTP, biasanya untuk kebutuhan inject, Tunnel, bypass atau optimisasi jaringan.
+
 ## 📸 ScreenShot
 <div align="center">
   <img src="Home_APK.jpg" alt="Contoh Gambar" width="300">
 </div>
-
-
-## 📱 Tentang Aplikasi Skarti VPN
-Skarti VPN Revolution adalah aplikasi yang digunakan untuk mengonfigurasi koneksi internet melalui protokol HTTP, biasanya untuk kebutuhan inject, Tunnel, bypass atau optimisasi jaringan.
 
 ## 🎯 Fitur Utama
 - UI Sederhana.
