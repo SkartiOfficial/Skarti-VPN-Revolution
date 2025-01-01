@@ -20,7 +20,7 @@ Skarti VPN Revolution adalah aplikasi yang digunakan untuk mengonfigurasi koneks
 3. Buka aplikasi dan nikmati fiturnya!
 
 ## 🛠 Teknologi yang Digunakan
-- **Aplikasi**: AndroidIDE
+- **Aplikasi**: AndroidIDE, MT Manager
 - **Bahasa Pemrograman**: Java
 
 ## 📄 Lisensi
